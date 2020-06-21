@@ -1,0 +1,6 @@
+schematics ckt-dmx.sch
+output-name ../pcb/ckt-dmx
+skip-m4
+elements-dir ../../ise-footprints
+
+
